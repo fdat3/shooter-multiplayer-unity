@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/polyperfect/Poly Halloween/- Demo Scenes/GameMenu.unity
+    guid: ebfedb522544ba0468c2ea12f8822b20
+  - enabled: 1
+    path: Assets/polyperfect/Poly Halloween/- Demo Scenes/Lobby.unity
+    guid: bb4db05e2b88d9746b005e784148a10a
+  - enabled: 1
+    path: Assets/polyperfect/Poly Halloween/- Demo Scenes/Graveyard.unity
+    guid: 669716b1cdf60e943962eae184f2693e
+  m_configObjects: {}
